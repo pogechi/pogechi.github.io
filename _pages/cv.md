@@ -20,7 +20,7 @@ Work experience
 ======
 
 ## Senior Battery Manager
-> **Erion**, *Milan (ITA)*    
+> **Erion Energy**, *Milan (ITA)*    
 > September 2023 - now    
 
   * Stay tuned!
