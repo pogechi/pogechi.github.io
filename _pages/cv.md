@@ -7,14 +7,14 @@ redirect_from:
   - /resume
 ---
 
-#{% include base_path %}
-
+{% include base_path %}
+  
 Education
 ======
 
 * B.S. in Applied Chemistry, **University of Rome**, 2009
 * M.S. in Micro- and Nanotechnology, **University of Cambridge**, 2011
-* Ph.D. in Physical & Analytical Chemistry, **University of Muenster**, 2015 - *Grade: Magna cum Laude*
+* Ph.D. in Physical & Analytical Chemistry, **University of Muenster**, 2015 - *Grade: Magna cum Laude*  
 
 Work experience
 ======
@@ -44,7 +44,7 @@ Work experience
   * During my tenure, the energy storage business grew from last to second most profitable.  
 
 ## January 2012 - March 2016
-> **Helmholtz Institute Ulm**, *Ulm (GER)*
+> **Helmholtz Institute Ulm**, *Ulm (GER)*  
 > **MEET Battery Research Centre**, *Muenster (GER)*
 
   * Design and testing of a battery prototype within the €4.5M “LABOHR” EU research project. 
@@ -82,19 +82,22 @@ Talks and interviews
 Service and leadership
 ======
 
-# Battery Pub - Active Member
+# Battery Pub
+> Active Member
 
   * Largest online network of battery experts in Europe.
-  * Moderation of sessions on failure in battery startups and raw materials scarcity.
+  * Moderation of sessions on failure in battery startups and raw materials scarcity.  
 
-# ELEEP - Alumnus
+# ELEEP
+> Alumnus
 
   * Transatlantic network of ca. 100 experts in energy and environment.
-  * Study tours in Germany, Denmark, and Texas on environmental practices and energy policy.
+  * Study tours in Germany, Denmark, and Texas on environmental practices and energy policy.  
 
-# University of Cambridge Alumni Network - Career Mentor
+# University of Cambridge Alumni Network
+> Career Mentor
   
-  * Mentorship of Cambridge graduates looking for career advice in the energy sector.
+  * Mentorship of Cambridge graduates looking for career advice in the energy sector.  
 
 Languages
 ======
