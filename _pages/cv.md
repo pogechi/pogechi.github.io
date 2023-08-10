@@ -19,7 +19,7 @@ Education
 Work experience
 ======
 
-## Senior Battery Project Manager
+## Senior Battery Manager
 > **Erion**, *Milan (ITA)*    
 > September 2023 - now    
 
