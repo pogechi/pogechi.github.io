@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 mastodon:
-  username               : "https://mastodon.green/@pogechi"
+  username               : "mastodon.green/@pogechi"
 twitter:
-  username               : &twitter
+  username               : pogechi
 facebook:
   username               :
   app_id                 :
