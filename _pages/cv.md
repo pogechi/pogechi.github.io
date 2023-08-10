@@ -82,19 +82,19 @@ Talks and interviews
 Service and leadership
 ======
 
-# Battery Pub
+## Battery Pub
 > Active Member
 
   * Largest online network of battery experts in Europe.
   * Moderation of sessions on failure in battery startups and raw materials scarcity.  
 
-# ELEEP
+## ELEEP
 > Alumnus
 
   * Transatlantic network of ca. 100 experts in energy and environment.
   * Study tours in Germany, Denmark, and Texas on environmental practices and energy policy.  
 
-# University of Cambridge Alumni Network
+## University of Cambridge Alumni Network
 > Career Mentor
   
   * Mentorship of Cambridge graduates looking for career advice in the energy sector.  
