@@ -11,47 +11,50 @@ redirect_from:
 
 Education
 ======
-* 🇮🇹 B.S. in Applied Chemistry, University of Rome, 2009
-* 🇬🇧 M.S. in Micro- and Nanotechnology, University of Cambridge, 2011
-* 🇩🇪 Ph.D. in Physical & Analytical Chemistry, University of Muenster, 2015 - *Grade: Magna cum Laude*
+
+* B.S. in Applied Chemistry, **University of Rome**, 2009
+* M.S. in Micro- and Nanotechnology, **University of Cambridge**, 2011
+* Ph.D. in Physical & Analytical Chemistry, **University of Muenster**, 2015 - *Grade: Magna cum Laude*
 
 Work experience
 ======
+
 ## June 2021 - August 2023: Senior Battery Engineer
-### **Free2move eSolutions**, *Milan (ITA)*
+> **Free2move eSolutions**, *Milan (ITA)*
 
   * Scrum Master of a team of 20 engineers to design a MWh-scale energy storage system.
-  * Management of a battery team and a ==€600k R&D budget==.
+  * Management of a battery team and a €600k R&D budget.
   * Weekly liaisons with Stellantis executives in Europe and North America.
-  * Active participation to two IEC technical committees (63330 & 63338).
+  * Active participation to two IEC technical committees (63330 & 63338).  
 
 ## January 2019 - May 2021: Senior Battery Engineer
-### **Eldor Corporation**, *Como (ITA)*
+> **Eldor Corporation**, *Como (ITA)*
 
-  * Start-up and management of a ==battery R&D lab== for a Tier 1 Automotive supplier.
+  * Start-up and management of a battery R&D lab for a Tier 1 Automotive supplier.
   * Synthesis and characterization of solid-state battery electrolytes.
-  * Onboarding and technical training of graduate employees.
+  * Onboarding and technical training of graduate employees.  
 
 ## May 2016 - December 2018: Senior Technology Analyst
-### **IDTechEx**, *Munich (GER)*
+> **IDTechEx**, *Munich (GER)*
 
   * Benchmark analyses of >100 companies working on energy storage & e-mobility.
   * Technology scouting trips to Silicon Valley, Japan, Korea, India, and Europe.
   * Consulting and brainstorming sessions on product development with C-suite clients.
   * Lectures and masterclasses to mixed technical/business audiences.
-  * During my tenure, the energy storage business grew ==from last to second most profitable==.
+  * During my tenure, the energy storage business grew from last to second most profitable.  
 
 ## January 2012 - March 2016
-### **Helmholtz Institute Ulm**, *Ulm (GER)*
-### **MEET Battery Research Centre**, *Muenster (GER)*
+> **Helmholtz Institute Ulm**, *Ulm (GER)*
+> **MEET Battery Research Centre**, *Muenster (GER)*
 
   * Design and testing of a battery prototype within the €4.5M “LABOHR” EU research project. 
-  * The results were praised as an ==“EU Success Story”== by the European Commission.
+  * The results were praised as an “EU Success Story” by the European Commission.
   * Management of Master’s and PhD students.
-  * Planning and setup of laboratory facilities in a new university building.
+  * Planning and setup of laboratory facilities in a new university building.  
 
 Skills
 ======
+
  * Direct experience along the whole battery value chain
  * Techno-economic analysis
  * Liaisons with C-suite customers
@@ -60,38 +63,42 @@ Skills
  * Public speaking to large audiences
  * Data science and data analysis (Python, Matlab, Jupyter Notebooks)
  * Experience in Agile methodology
- * Fluent in Italian, English, German 
+ * Fluent in Italian, English, German  
 
 Publications
 ======
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Talks and interviews
 ======
+
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
 ======
-* Battery Pub - Active Member
+
+# Battery Pub - Active Member
 
   * Largest online network of battery experts in Europe.
   * Moderation of sessions on failure in battery startups and raw materials scarcity.
 
-* ELEEP - Alumnus
+# ELEEP - Alumnus
 
   * Transatlantic network of ca. 100 experts in energy and environment.
   * Study tours in Germany, Denmark, and Texas on environmental practices and energy policy.
 
-* University of Cambridge Alumni Network - Career Mentor
+# University of Cambridge Alumni Network - Career Mentor
   
   * Mentorship of Cambridge graduates looking for career advice in the energy sector.
 
 Languages
 ======
+
 * Italian (mother tongue)
 * English (proficient)
 * German (fluent)
