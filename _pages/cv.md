@@ -19,6 +19,12 @@ Education
 Work experience
 ======
 
+## Senior Battery Project Manager
+> ** Erion**, *Milan (ITA)*    
+> September 2023 - now    
+
+  * Stay tuned!
+
 ## Senior Battery Engineer
 > **Free2move eSolutions**, *Milan (ITA)*    
 > June 2021 - August 2023    

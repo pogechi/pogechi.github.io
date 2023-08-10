@@ -15,4 +15,7 @@ What started as a genuine interest in electrochemistry after taking an elective 
 
 My main motivation to work in the climate tech sector stems from my undying optimism on humanity, and our innate capability to come together in times of need to achieve a common goal. I practice what I preach on a daily basis, and I am convinced more people can be educated on the threats of climate change if all of us lead by example.
 
+I like watching sci-fi and dystopian movies/TV series, as well as carrying out little data science projects using Python and Jupyter Notebooks. I can't say I read many books, but when I get hold of one that resonates with me, I can finish it in a couple of days. All hobbies aside, I prefer to devote my spare time to my beautiful wife and our two kids.
+
+
 To get in touch with me, you may click on any of the links on the sidebar.
