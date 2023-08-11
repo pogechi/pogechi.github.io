@@ -1,7 +1,7 @@
 ---
-title: "Battery Show 2017"
-excerpt: "Henry Ford Museum, Michigan 2017<br/><img src='/images/IMG_5858.jpg'>"
+title: "BMW's first forays into the EV arena"
+excerpt: "A visit to BMW Welt in Munich, 2016<br/><img src='/images/bmw2016.jpg'>"
 collection: portfolio
 ---
 
-Visit at the Henry Ford Museum in Michigan. I was in the area to attend the Battery Show 2017 and to visit some automotive clients.
+BMW made a great first EV, the BMW i3, and showcased it at the museum just outside their HQ in Munich.

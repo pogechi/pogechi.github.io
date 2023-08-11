@@ -1,7 +1,7 @@
 ---
-title: "Automotive battery packs"
-excerpt: "Summer 2022 in Cosio Valtellino, Italy<br/><img src='/images/Group Picture.jpg'>"
+title: "Go Atlante!"
+excerpt: "EV fast charging station, Italy 2023<br/><img src='/images/valtellina2023.jpg'>"
 collection: portfolio
 ---
 
-Picture taken at the end of a successful set of tests with an external supplier.
+This is me and my colleague rooting for Free2move eSolutions' sister company Atlante.

@@ -1,7 +1,7 @@
 ---
-title: "Stockholm"
-excerpt: "Group picture of me and some Free2move colleagues<br/><img src='/images/PXL_20221005_194611751.MP.jpg'>"
+title: "X-ray diffractometry"
+excerpt: "Me placing an electrode sample inside an XRD instrument, Ulm 2015<br/><img src='/images/xrd2015.jpg'>"
 collection: portfolio
 ---
 
-In 2022 I undertook a business trip to Sweden to oversee a local battery manufacturer.
+This picture was part of a promotional photo shoot for the Helmholtz Institute Ulm. My colleague Franziska is in the background.

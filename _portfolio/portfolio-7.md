@@ -1,7 +1,7 @@
 ---
-title: "Second business trip to Japan"
-excerpt: "Group picture of IDTechEx colleagues and customers, Tokyo 2018<br/><img src='/images/IMG_20180227_191046.jpg'>"
+title: "Third business trip to Japan"
+excerpt: "Visit to a technical university, Japan 2018<br/><img src='/images/japan2018-2.jpg'>"
 collection: portfolio
 ---
 
-This picture was taken with some IDTechEx clients in Tokyo during an amazing sushi dinner.
+During this trip I was joined by another IDTechEx analyst to learn more about second life battery projects in Japan.

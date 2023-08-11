@@ -1,7 +1,7 @@
 ---
-title: "Third business trip to Japan"
-excerpt: "Visit to a technical university, Japan 2018<br/><img src='/images/IMG-20181006-WA0002.jpg'>"
+title: "Henry Ford Museum"
+excerpt: "Henry Ford Museum, Michigan 2017<br/><img src='/images/michigan2017.jpg'>"
 collection: portfolio
 ---
 
-During this trip I was joined by another IDTechEx analyst to learn more about second life battery projects in Japan.
+Visit at the Henry Ford Museum in Michigan. I was in the area to attend the Battery Show 2017 and to visit some automotive clients.

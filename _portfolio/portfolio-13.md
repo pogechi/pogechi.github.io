@@ -1,7 +1,7 @@
 ---
-title: "Moving from Muenster to Ulm"
-excerpt: "Group picture of me and two ELEEP Alumni, California 2017<br/><img src='/images/IMG_20171114_130609.jpg'>"
+title: "First business trip to Japan"
+excerpt: "Group picture with IDTechEx colleagues and customers, Tokyo 2017<br/><img src='/images/japan2017.jpg'>"
 collection: portfolio
 ---
 
-Reunion with some ELEEP Alumni somewhere in the Napa Valley.
+During my time at IDTechEx, I had the opportunity to travel extensively overseas. One recurring trip was attending Battery Japan in Tokyo. During such trips, I would also give technical lectures to a mostly East Asian business audience, while also meeting recurring and potential clients.

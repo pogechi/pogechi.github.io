@@ -1,7 +1,7 @@
 ---
-title: "Moving from Muenster to Ulm"
-excerpt: "Group picture of the Passerini group, Ulm 2014<br/><img src='/images/umzug2014.jpg'>"
+title: "Stockholm"
+excerpt: "Group picture of me and some Free2move colleagues, Stockholm 2022<br/><img src='/images/stockholm2022.jpg'>"
 collection: portfolio
 ---
 
-This picture was taken after moving all the instruments and chemicals from our old lab at the University of Muenster to the new facilities in Ulm, Germany.
+In 2022 I undertook a business trip to Sweden to oversee a local battery manufacturer.

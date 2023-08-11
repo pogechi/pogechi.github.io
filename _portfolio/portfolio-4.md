@@ -1,7 +1,7 @@
 ---
-title: "Tesla expands in Germany"
-excerpt: "Somewhere on the German Autobahn, 2016<br/><img src='/images/WP_20161015_007.jpg'>"
+title: "ComoNEXT"
+excerpt: "Selfie in front of my new office, Como 2019<br/><img src='/images/como2019.jpg'>"
 collection: portfolio
 ---
 
-This picture was taken during a road trip in 2016. Back then the Tesla Supercharger network was already expanding considerably.
+In 2019 I moved back to Italy after seven years in Germany to join a battery lab in a startup incubator as employee number one.

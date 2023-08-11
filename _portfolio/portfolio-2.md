@@ -1,7 +1,7 @@
 ---
-title: "X-ray diffractometry"
-excerpt: "Me placing an electrode sample inside an XRD instrument, Ulm 2015<br/><img src='/images/xrd2015.jpg'>"
+title: "Automotive battery packs"
+excerpt: "Summer 2022 in Cosio Valtellino, Italy<br/><img src='/images/Group Picture.jpg'>"
 collection: portfolio
 ---
 
-This picture was part of a promotional photo shoot for the Helmholtz Institute Ulm. My colleague Franziska is in the background.
+Picture taken at the end of a successful set of tests with an external supplier.

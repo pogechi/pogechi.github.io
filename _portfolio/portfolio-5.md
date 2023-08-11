@@ -1,7 +1,7 @@
 ---
-title: "BMW's first forays into the EV arena"
-excerpt: "A visit to BMW Welt in Munich, 2016<br/><img src='/images/DSC_3969.jpg'>"
+title: "Battery Show 2018"
+excerpt: "Group picture of me and two IDTechEx colleagues, Novi, MI 2018<br/><img src='/images/michigan2018.jpg'>"
 collection: portfolio
 ---
 
-BMW made a great first EV, the BMW i3, and showcased it at the museum just outside their HQ in Munich.
+2018 was the last year I attended the Battery Show USA in Michigan; here I was with some colleagues for evening drinks.

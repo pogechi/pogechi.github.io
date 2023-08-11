@@ -1,7 +1,7 @@
 ---
-title: "Award ceremony"
-excerpt: "IDTechEx Show Europe, Berlin 2018<br/><img src='/images/IMG-20180414-WA0001.jpg'>"
+title: "Business trip to India"
+excerpt: "Presentation at a battery conference, New Delhi 2018<br/><img src='/images/delhi2018.jpg'>"
 collection: portfolio
 ---
 
-As part of my IDTechEx duties, I was member of a jury that selected any noteworthy companies and startups in the energy storage market.
+I was invited as a guest speaker to an Energy Storage Symposium in Delhi. The event was organised by the formidable Indian Energy Storage Alliance.

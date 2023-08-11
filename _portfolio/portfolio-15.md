@@ -1,7 +1,7 @@
 ---
-title: "Battery Show 2018"
-excerpt: "Group picture of me and two IDTechEx colleagues, Novi, MI 2018<br/><img src='/images/IMG_20180913_200633.jpg'>"
+title: "Tesla expands in Germany"
+excerpt: "Somewhere on the German Autobahn, 2016<br/><img src='/images/tesla2016.jpg'>"
 collection: portfolio
 ---
 
-2018 was the last year I attended the Battery Show USA in Michigan; here I was with some colleagues for evening drinks.
+This picture was taken during a road trip in 2016. Back then the Tesla Supercharger network was already expanding considerably.
