@@ -1,5 +1,5 @@
 ---
-title: "Tesla expands in Germant"
+title: "Tesla expands in Germany"
 excerpt: "Somewhere on the German Autobahn, 2016<br/><img src='/images/WP_20161015_007.jpg'>"
 collection: portfolio
 ---
