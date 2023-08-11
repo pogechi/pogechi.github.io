@@ -79,7 +79,7 @@ Skills
 Publications
 ======
 
-See all my scientific publications [here](https://scholar.google.com/citations?user=B6VW0NYAAAAJ&hl=en&oi=ao "Google Scholar").    
+See all my scientific publications <a href="https://scholar.google.com/citations?user=B6VW0NYAAAAJ&hl=en&oi=ao" target="_blank"> here </a>.    
    
 Talks and interviews
 ======
