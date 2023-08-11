@@ -5,4 +5,4 @@ sitemap: false
 permalink: /contact/
 ---
 
-You can send me a contact request on [Linkedin](https://www.linkedin.com/in/lorenzogrande87/).
+You can send me a contact request on [Linkedin](https://www.linkedin.com/in/lorenzogrande87/){:target="_blank"}.
