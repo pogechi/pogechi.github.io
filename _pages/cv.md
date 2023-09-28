@@ -23,7 +23,10 @@ Work experience
 > **Erion Energy**, *Milan (ITA)*    
 > September 2023 - now    
 
-  * Stay tuned!
+  * Boost battery collection rate in Italy to meet EU targets
+  * EU Battery Regulation Expert
+  * Technical support to Erion Energy's 1000+ battery stakeholders
+  * Outreach activities in schools and public events
 
 ## Senior Battery Engineer
 > **Free2move eSolutions**, *Milan (ITA)*    
