@@ -18,10 +18,16 @@ Education
 
 Work experience
 ======
+## Owner
+> **Teraton**, *Milan (ITA)*    
+> March 2024 - present    
+
+  * Tech consulting company focused on batteries and energy storage
+  * Stay tuned to learn more about it!
 
 ## Senior Battery Manager
 > **Erion Energy**, *Milan (ITA)*    
-> September 2023 - now    
+> September 2023 - January 2024    
 
   * Boost battery collection rate in Italy to meet EU targets
   * EU Battery Regulation Expert
