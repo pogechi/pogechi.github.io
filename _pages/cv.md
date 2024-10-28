@@ -23,7 +23,7 @@ Work experience
 > March 2024 - present    
 
   * Tech consulting company focused on batteries and energy storage
-  * Stay tuned to learn more about it!
+  * Visit [Teraton's website](https://www.teraton.tech)  to learn more about it!
 
 ## Senior Battery Manager
 > **Erion Energy**, *Milan (ITA)*    
