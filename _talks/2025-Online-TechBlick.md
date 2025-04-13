@@ -12,4 +12,4 @@ At the TechBlick Energy Storage Conference 2025, I delivered an online talk on t
 
 Enjoy an excerpt from my talk.
     
-<iframe width="560" height="315" src="https://www.youtube.com/embed/negW8Dl0vSg?si=bG01zE7xPNSzzBnR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/negW8Dl0vSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
