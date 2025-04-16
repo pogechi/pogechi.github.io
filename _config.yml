@@ -59,7 +59,7 @@ yandex_site_verification :
 mastodon:
   username               : "mastodon.green/@pogechi"
 twitter:
-  username               : pogechi
+  username               :
 facebook:
   username               :
   app_id                 :
