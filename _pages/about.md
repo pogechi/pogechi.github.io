@@ -9,7 +9,7 @@ redirect_from:
 ---
 Ciao! 
 
-My name is Lorenzo and I have been involved in the Li-ion battery industry in a number of positions since 2009. My expertise stems **from nanograms** of chemicals **to gigawatt-hours** of finished batteries, thanks to a diverse and unconventional career path that has led me from Rome, Italy, to Milan, Italy, via Cambridge (UK), Muenster (DE), Ulm (DE), and Munich (also DE, duh!).
+My name is Lorenzo and I have been involved in the Li-ion battery industry in a number of positions since 2009. My expertise stems **from nanograms** of chemicals **to gigawatt-hours** of finished batteries, thanks to a diverse and unconventional career path that has led me from Rome, Italy, to Milan, Italy, via Cambridge (UK), Muenster (DE), Ulm (DE), and Munich.
 
 What started as a genuine interest in electrochemistry after taking an elective course at the University of Rome, has turned into a full-fledged career where I witnessed the surge of a rather obscure topic of research into one of the main enabling technologies to fight climate change.
 
