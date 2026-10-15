@@ -109,6 +109,11 @@ Talks and interviews
 Service and leadership
 ======
 
+## Volta Foundation
+> Author
+
+  * Author of the 2024 and 2026 Battery Report, covering second-life batteries and stationary storage
+
 ## Battery Pub
 > Active Member
 
