@@ -24,6 +24,15 @@ Work experience
 
   * Tech consulting company focused on batteries and energy storage
   * Visit [Teraton's website](https://www.teraton.tech)  to learn more about it!
+  
+## Co-Founder
+> **NEBITH Ltd.**, *Edinburgh (UK) / Milan (ITA)*    
+> August 2025 - August 2025    
+
+  * Co-founded an energy startup to decarbonize diesel generators by means of a PV minigrid
+  * Built an MVP consisting of 5 kWp lightweight PV panels, 12 kWh second-life batteries, and a 3-phase off-grid inverter
+  * Showcased energy savings and remote monitoring capabilites to an interested company
+  * None of this unfortunately raised interest from investors, so we had to fold. We'll learn from our mistakes next time!
 
 ## Senior Battery Manager
 > **Erion Energy**, *Milan (ITA)*    
