@@ -1,5 +1,5 @@
 ---
-title: "The European BESS market"
+title: "I got interviewed on the European BESS market"
 collection: talks
 type: "Talk"
 permalink: /talks/2026-StoryTime
