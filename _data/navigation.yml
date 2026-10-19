@@ -2,6 +2,7 @@
 main:
   - title: "Publications"
     url: https://scholar.google.com/citations?user=B6VW0NYAAAAJ&hl=en&oi=ao
+    target: _blank
         
   - title: "Blog Posts"
     url: /year-archive/
